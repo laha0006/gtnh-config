@@ -1,0 +1,3 @@
+- turn off pollution
+- game rule fireTick = false
+- 
