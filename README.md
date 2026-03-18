@@ -1,6 +1,4 @@
-# configs changed
-
----
+## configs changed
 
 - server utils, enabled ranks, commands, chunkloading
 - ranks.txt (homes, back, tpa, etc 0warmup, 0cd)
@@ -9,9 +7,7 @@
 - mineshafts, caves, lakes off (RWG.cfg)
 - lootgames, game of light weight 0 (only minesweeper will spawn)
 
-# gamerules
-
----
+## gamerules
 
 ```bash
 /gamerule doFireTick false
