@@ -5,10 +5,26 @@ default_player_rank: true
 power: 1
 serverutilities.claims.max_chunks: 10000
 serverutilities.chunkloader.max_chunks: 500
-serverutilities.homes.max: 3
+serverutilities.homes.max: 10
 serverutilities.homes.warmup: 0s
 serverutilities.homes.cooldown: 0s
 serverutilities.homes.cross_dim: true
+serverutilities.back.warmup: 0s
+serverutilities.back.cooldown: 0s
+serverutilities.back.back: true
+serverutilities.back.home: true
+serverutilities.back.spawn: true
+serverutilities.back.tpa: true
+serverutilities.home.max: 10
+serverutilities.home.warmup: 0s
+serverutilities.home.cooldown: 0s
+serverutilities.home.cross_dim: true
+serverutilities.spawn.warmup: 0s
+serverutilities.spawn.cooldown: 0s
+serverutilities.spawn.cross_dim: true
+serverutilities.tpa.warmup: 0s
+serverutilities.tpa.cooldown: 0s
+serverutilities.tpa.cross_dim: true
 
 [vip]
 power: 20
