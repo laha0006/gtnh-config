@@ -6,6 +6,8 @@
 - Dirt/gravel undergrod generation off (GregTech/WorldGeneration.cfg)
 - mineshafts, caves, underground lakes generation off (RWG.cfg)
 - lootgames, game of light weight 0 (only minesweeper will spawn)
+- disable forestry butterfly
+- autoPlaceBudget increased to 50 from 25 (hologram projector)
 
 ## gamerules
 
