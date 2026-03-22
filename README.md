@@ -16,3 +16,9 @@
 /gamerule doFireTick false
 /gamerule keepInventory true
 ```
+
+## seed
+
+```
+3708724807944130699
+```
