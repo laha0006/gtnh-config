@@ -8,6 +8,7 @@
 - lootgames, game of light weight 0 (only minesweeper will spawn)
 - disable forestry butterfly
 - autoPlaceBudget increased to 50 from 25 (hologram projector)
+- findIt radius increased from 16 to 32 (T search)
 
 ## gamerules
 
